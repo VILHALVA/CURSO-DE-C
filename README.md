@@ -1,9 +1,7 @@
 # CURSO DE C
 👨‍⚖️C É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
@@ -804,3 +802,9 @@ Embora C não tenha suporte nativo para POO, essas técnicas permitem que você 
 
 10. **Menos Produtividade para Desenvolvimento de Alto Nível**:
     - Para desenvolvimento de software de alto nível ou aplicações de nível empresarial, linguagens de programação de alto nível podem oferecer maior produtividade e eficiência devido a suas bibliotecas ricas e recursos de abstração.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "PIETRO MARTINS DE OLIVEIRA"](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+
