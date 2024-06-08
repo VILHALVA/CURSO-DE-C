@@ -118,6 +118,6 @@
 - [CURSO CRIADO PELO "PIETRO MARTINS DE OLIVEIRA"](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:C)
-
